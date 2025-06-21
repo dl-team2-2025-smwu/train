@@ -1,0 +1,6 @@
+train: ''
+val: ''
+test: test/img
+names:
+  0: icon
+  1: panel
